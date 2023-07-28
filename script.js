@@ -7,7 +7,6 @@ function refresh() {
   attemps = 0;
 
   numberToFind = parseInt(Math.random() * 100);
-  console.log(numberToFind)
 }
 
 function verifyNumber() {
